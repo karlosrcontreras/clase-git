@@ -2,3 +2,4 @@
 
 (Ok)commit initial
 (OK) add css without conflicts
+(Ok) how to resolve conflicts
