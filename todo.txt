@@ -1,4 +1,5 @@
 ==== todo ====
 
 (Ok)commit initial
-(OK) add css
+(OK) add css with error
+(Ok) how to resolve conflicts
